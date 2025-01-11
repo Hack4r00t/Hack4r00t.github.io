@@ -17,6 +17,7 @@ header {
     align-items: center;
     padding: 5px 15vw;
     background-color: rgb(62, 62, 62);
+    /* I'm not gonna lie, chat gpt helped for this part 😅 */
     position: fixed; /* Fixes the navbar at the top of the screen */
     top: 0;          /* Aligns the navbar at the very top */
     left: 0;         /* Aligns the navbar to the left edge */
