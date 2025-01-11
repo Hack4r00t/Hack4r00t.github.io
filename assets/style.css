@@ -72,11 +72,17 @@ a.nav-link:hover {
 
 #title1,
 #title2 {
-    font-size: 80px;
+    font-size: 60px;
     color: rgb(61, 61, 61);
     font-weight: bold;
     width: 30vw;
     text-align: center;
+    transition: font-size 0.3s ease;
+}
+
+#title1:hover,
+#title2:hover {
+    font-size: 80px;
 }
 
 h1 > em {
